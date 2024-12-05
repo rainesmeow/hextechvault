@@ -2,9 +2,9 @@
 
 ## Goals
 
-- Store and manage multiple Riot Games accounts in one place.
-- Enable quick, one-click login to the Riot Client.
-- Provide a clean, simple, and user-friendly interface.
+- [ ] Store and manage multiple Riot Games accounts in one place.
+- [ ] Enable quick, one-click login to the Riot Client.
+- [ ] Provide a clean, simple, and user-friendly interface.
 
 ## Tech Stack
 
@@ -14,25 +14,7 @@
 
 ## Contributing
 
-Contributions are welcome! If you have suggestions, bug fixes, or new features, feel free to fork the repository and submit a pull request.
-
-### How to Contribute
-
-1. **Fork the repository.**
-
-2. **Create a feature branch**:
-    ```bash
-    git checkout -b feature-name
-    ```
-3. **Commit your changes**:
-    ```bash
-    git commit -am 'Add new feature'
-    ```
-4. **Push to the branch**:
-    ```bash
-    git push main feature-name
-    ```
-5. **Open a pull request**
+Any contributions are very welcome! Feel free to open an issue or pull request.
 
 ## License
 

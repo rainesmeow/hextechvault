@@ -28,6 +28,10 @@
 
 Please keep in mind that this project is still in early development. Some features may not be fully implemented or stable. Feel free to try it out, but be aware that it might have bugs or missing features.
 
+### Releases:
+
+No stable version has been released yet. Coming soon !
+
 ## Contributing
 
 Contributions are welcome, just submit a PR, or create an issue

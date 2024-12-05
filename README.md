@@ -20,9 +20,21 @@
 
 - **Node.js**: [Download Node.js](https://nodejs.org/en/download/package-manager) (Choose the LTS version)
 
+#### 1. Download the repository:
+You can either clone the repository using Git or download the ZIP file directly.
+- **Clone the repository**:
+  
+  ```bash
+  git clone https://github.com/yourusername/hextechvault.git
+  ```
+
 #### Install dependencies:
 
+Navigate to the project folder and run the following commands:
+
 ```bash
+    npm install
+    cd renderer
     npm install
 ```
 
@@ -34,7 +46,7 @@
 
 Please keep in mind that this project is still in early development. Some features may not be fully implemented or stable. Feel free to try it out, but be aware that it might have bugs or missing features.
 
-### Releases:
+### Running the packaged Hextech Vault version:
 
 No stable version has been released yet.
 

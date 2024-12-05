@@ -14,7 +14,7 @@
 
 ## Contributing
 
-Any contributions are very welcome! Feel free to open an issue or pull request.
+Any contributions are welcome, feel free to open an issue or pull request!
 
 ## License
 

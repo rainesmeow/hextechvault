@@ -14,7 +14,7 @@
 
 ## Usage
 
-### Running locally:
+### Running Hextech Vault locally:
 
 #### Prerequisites:
 
@@ -40,7 +40,7 @@ No stable version has been released yet.
 
 ## Contributing
 
-Contributions are welcome, just submit a PR, or create an issue
+If you would like to contribute, please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to contribute.
 
 ## License
 

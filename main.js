@@ -6,7 +6,8 @@ function createMainWindow() {
         height: 720,
     });
 
-    mainWindow.loadURL("http://localhost:5173");
+    mainWindow.loadFile("./renderer/dist/index.html");
+    console.log("file loaded");
 }
 
 app.whenReady().then(createMainWindow);

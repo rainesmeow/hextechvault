@@ -1,12 +1,11 @@
 {
-    "name": "react",
+    "name": "renderer",
     "type": "module",
+    "private": "true",
     "scripts": {
-        "start": "vite",
         "dev": "vite",
         "build": "tsc -b && vite build",
-        "lint": "eslint .",
-        "preview": "vite preview"
+        "lint": "eslint ."
     },
     "dependencies": {
         "react": "^18.3.1",

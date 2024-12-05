@@ -19,6 +19,7 @@ Contributions are welcome! If you have suggestions, bug fixes, or new features, 
 ### How to Contribute
 
 1. **Fork the repository.**
+
 2. **Create a feature branch**:
     ```bash
     git checkout -b feature-name
@@ -31,8 +32,7 @@ Contributions are welcome! If you have suggestions, bug fixes, or new features, 
     ```bash
     git push main feature-name
     ```
-5. **Open a pull request**:
-   Thank you for any contributions!
+5. **Open a pull request**
 
 ## License
 

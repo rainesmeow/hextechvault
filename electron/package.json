@@ -3,8 +3,7 @@
     "type": "module",
     "main": "main.js",
     "scripts": {
-        "start": "electron .",
-        "dev": "electron ."
+        "start": "electron ."
     },
     "dependencies": {
         "electron": "^33.2.1"

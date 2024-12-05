@@ -14,7 +14,7 @@
 
 ## Running Hextech Vault
 
-### Running Hextech Vault in development mode:
+### In development mode:
 
 #### Prerequisites:
 

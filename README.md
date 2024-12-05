@@ -14,7 +14,7 @@
 
 ## Usage
 
-### Running Hextech Vault locally:
+### Running Hextech Vault in development mode:
 
 #### Prerequisites:
 

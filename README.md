@@ -14,19 +14,19 @@
 
 ## Usage
 
-### Running locally :
+### Running locally:
 
 #### Prerequisites:
 
-- **Node.js** : [Download Node.js](https://nodejs.org/en/download/package-manager) (Choose the LTS version)
+- **Node.js**: [Download Node.js](https://nodejs.org/en/download/package-manager) (Choose the LTS version)
 
-#### Installation
+#### Install dependencies:
 
 ```bash
     npm install
 ```
 
-#### Start the app
+#### Start the app:
 
 ```bash
     npm run dev

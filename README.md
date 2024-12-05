@@ -40,7 +40,7 @@ No stable version has been released yet.
 
 ## Contributing
 
-If you would like to contribute, please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to contribute.
+All submissions are appreciated, just submit a Pull Request (PR) or open an issue.
 
 ## License
 

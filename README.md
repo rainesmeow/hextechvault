@@ -18,17 +18,15 @@
 
 #### Prerequisites:
 
-- **Node.js** : [Download Node.js](https://nodejs.org/en/download/package-manager)(Choose the LTS version)
+- **Node.js** : [Download Node.js](https://nodejs.org/en/download/package-manager) (Choose the LTS version)
 
 #### Installation
-
-- **Installation** :
 
 ```bash
     npm install
 ```
 
-- **Start the app** :
+#### Start the app
 
 ```bash
     npm run dev
@@ -38,7 +36,7 @@ Please keep in mind that this project is still in early development. Some featur
 
 ### Releases:
 
-No stable version has been released yet. Coming soon !
+No stable version has been released yet.
 
 ## Contributing
 

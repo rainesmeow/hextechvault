@@ -1,0 +1,14 @@
+{
+    "name": "hextechvault",
+    "author": "rainesmeow",
+    "license": "MIT",
+    "description": "",
+    "private": true,
+    "version": "0.0.0",
+    "scripts": {
+        "start": "concurrently \"cd react && npm start\" \"cd electron && npm start\""
+    },
+    "devDependencies": {
+        "concurrently": "^9.1.0"
+    }
+}

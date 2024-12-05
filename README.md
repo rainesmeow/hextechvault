@@ -12,7 +12,7 @@
 - **React**: JavaScript library for building user interfaces, allowing dynamic rendering and state management. React powers the interactive front-end of Hextech Vault.
 - **Tailwind CSS**: Utility-first CSS framework for creating responsive designs quickly and efficiently.
 
-## Usage
+## Running Hextech Vault
 
 ### Running the packaged version of Hextech Vault:
 
@@ -49,6 +49,10 @@ Navigate to the project folder and run the following commands:
 ```
 
 Please keep in mind that this project is still in early development. Some features may not be fully implemented or stable. Feel free to try it out, but be aware that it might have bugs or missing features.
+
+## Usage
+
+Guidelines on how to use Hextech Vault will be added with the first release.
 
 
 ## Contributing
